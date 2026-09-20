@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- Replace https://[domain] with the final deployed domain before submitting to GSC. -->
+<!-- Replace https://fidatosmainportfolio.netlify.app with the final deployed domain before submitting to GSC. -->
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://[domain]/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
-  <url><loc>https://[domain]/art.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://[domain]/music.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://[domain]/architecture.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
-  <url><loc>https://[domain]/resume.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[domain]/credentials.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
-  <url><loc>https://[domain]/media.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
-  <url><loc>https://[domain]/contact.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/</loc><changefreq>monthly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/art.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/music.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/architecture.html</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/resume.html</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/credentials.html</loc><changefreq>weekly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/media.html</loc><changefreq>monthly</changefreq><priority>0.7</priority></url>
+  <url><loc>https://fidatosmainportfolio.netlify.app/contact.html</loc><changefreq>yearly</changefreq><priority>0.7</priority></url>
 </urlset>
