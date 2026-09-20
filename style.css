@@ -354,3 +354,5 @@ code { font-family: 'JetBrains Mono', monospace; color: var(--gold); }
 }
 
 .nav-link.active { color: var(--gold); background: rgba(212,175,55,0.12); }
+
+.resume-downloads { display: flex; flex-wrap: wrap; gap: 12px; }
